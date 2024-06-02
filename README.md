@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**tokyospliff/tokyospliff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a 21-year-old programmer from Germany. I have a passion for coding and enjoy exploring new ideas and developing interesting projects as a hobby. GitHub is my go-to platform for sharing my work and collaborating with fellow developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+Lua: I enjoy using Lua for its simplicity and flexibility.
+C++: I appreciate C++ for its power and performance.
+
+Feel free to check out my repositories and see what I'm working on. I'm always open to feedback and collaboration!
+
+## Contact
+
+- [Email](filipalex07@outlook.com)
+- [Behance](https://www.behance.net/comingsoon)
+
+Thanks for visiting my profile!
