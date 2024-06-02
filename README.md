@@ -1,20 +1,56 @@
-# Welcome to My GitHub Profile!
+<!-- README.md -->
 
-## About Me
+<h1 align="center">Welcome to My GitHub Profile!</h1>
 
-I'm a 21-year-old programmer from Germany. I have a passion for coding and enjoy exploring new ideas and developing interesting projects as a hobby. GitHub is my go-to platform for sharing my work and collaborating with fellow developers.
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/169314632?v=4" alt="Profile Picture" width="150">
+</p>
 
-## Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-21-blue?style=flat-square" alt="Age Badge">
+  <img src="https://img.shields.io/badge/Location-Germany-green?style=flat-square" alt="Location Badge">
+</p>
 
-Lua: I enjoy using Lua for its simplicity and flexibility.
+<h2>About Me</h2>
 
-C++: I appreciate C++ for its power and performance.
+<p>
+  Hello! I'm a 21-year-old programmer from Germany. I have a passion for coding and enjoy exploring new ideas and developing interesting projects as a hobby. GitHub is my go-to platform for sharing my work and collaborating with fellow developers.
+</p>
 
-Feel free to check out my repositories and see what I'm working on. I'm always open to feedback and collaboration!
+<h2>Languages</h2>
 
-## Contact
+<ul>
+  <li><img src="https://img.icons8.com/color/48/000000/lua.png" width="20"> <strong>Lua</strong>: I enjoy using Lua for its simplicity and flexibility.</li>
+  <li><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="20"> <strong>C++</strong>: I appreciate C++ for its power and performance.</li>
+</ul>
 
-- [Email](filipalex07@outlook.com)
-- [Behance](https://www.behance.net/comingsoon)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyospliff&layout=compact" alt="Top Languages">
+</p>
 
-Thanks for visiting my profile!
+<h2>Contact</h2>
+
+<p>
+  <a href="mailto:filipalex07@outlook.com">
+    <img src="https://img.icons8.com/color/48/000000/email.png" width="20"> Email
+  </a>
+  <br>
+  <a href="https://www.behance.net/comingsoon">
+    <img src="https://img.icons8.com/color/48/000000/behance.png" width="20"> Behance
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square" alt="Profile Views">
+</p>
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
+
+<!-- Add this at the end to add a footer -->
+<footer>
+  <p align="center">
+    <img src="https://img.icons8.com/nolan/64/github.png" width="20"> Follow me on GitHub!
+  </p>
+</footer>
