@@ -21,7 +21,7 @@
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png" width="20"> <strong>Lua</strong>: I enjoy using Lua for its simplicity and flexibility.</li>
-  <li><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="20"> <strong>C++</strong>: I appreciate C++ for its power and performance.</li>
+  <li><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="20"> <strong></strong>: I appreciate C++ for its power and performance.</li>
 </ul>
 
 <p align="center">
