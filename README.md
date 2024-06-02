@@ -7,6 +7,7 @@ I'm a 21-year-old programmer from Germany. I have a passion for coding and enjoy
 ## Languages
 
 Lua: I enjoy using Lua for its simplicity and flexibility.
+
 C++: I appreciate C++ for its power and performance.
 
 Feel free to check out my repositories and see what I'm working on. I'm always open to feedback and collaboration!
