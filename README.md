@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://tokyospliff.dev" target="_blank">
-    <img src="https://img.icons8.com/nolan/64/website.png" width="40" alt="Website"> Visit My Website
+    <img src="https://img.icons8.com/nolan/64/internet.png" width="40" alt="Website Icon"> <strong>Visit My Website</strong>
   </a>
 </p>
 
