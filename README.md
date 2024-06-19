@@ -30,13 +30,9 @@
 
 <h2>Contact</h2>
 
-<p>
-  <a href="mailto:filipalex07@outlook.com">
-    <img src="https://img.icons8.com/color/48/000000/email.png" width="20"> Email
-  </a>
-  <br>
-  <a href="https://www.behance.net/comingsoon">
-    <img src="https://img.icons8.com/color/48/000000/behance.png" width="20"> Behance
+<p align="center">
+  <a href="https://tokyospliff.dev" target="_blank">
+    <img src="https://img.icons8.com/nolan/64/website.png" width="40" alt="comingsoon"> Visit My Website
   </a>
 </p>
 
