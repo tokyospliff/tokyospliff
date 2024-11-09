@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-21-blue?style=flat-square" alt="Age Badge">
+  <img src="https://img.shields.io/badge/Age-22-blue?style=flat-square" alt="Age Badge">
   <img src="https://img.shields.io/badge/Location-Germany-green?style=flat-square" alt="Location Badge">
 </p>
 
