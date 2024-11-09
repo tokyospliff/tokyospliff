@@ -14,7 +14,7 @@
 <h2>About Me</h2>
 
 <p>
-  Hello! I'm a 21-year-old programmer from Germany. I have a passion for coding and enjoy exploring new ideas and developing interesting projects as a hobby. GitHub is my go-to platform for sharing my work and collaborating with developers.
+  Hello! I'm a 22-year-old programmer from Germany. I have a passion for coding and enjoy exploring new ideas and developing interesting projects as a hobby. GitHub is my go-to platform for sharing my work and collaborating with developers.
 </p>
 
 <h2>Languages</h2>
