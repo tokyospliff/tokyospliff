@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/169314632?v=4" alt="Profile Picture" width="150">
+  <img src="https://avatars.githubusercontent.com/u/169314632?v=4" alt="Profile Picture" width="150" style="border-radius: 50%;">
 </p>
 
 <p align="center">
