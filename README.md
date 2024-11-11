@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/discord/DRPxmjrHPr?label=Online%20Members&style=flat-square" alt="Discord Online Members">
+  <img src="https://img.shields.io/discord/1305671044014669916?label=Online%20Members&style=flat-square" alt="Discord Online Members">
 </p>
 
 <p align="center">
