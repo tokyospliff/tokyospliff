@@ -29,7 +29,7 @@
 <h2>Contact</h2>
 
 <p align="center">
-  <a href="https://discord.gg/XYtpjNZ4KJ" target="_blank">
+  <a href="https://discord.gg/Nj9Y8RUz2c" target="_blank">
     <img src="https://img.icons8.com/nolan/64/discord-logo.png" width="40" alt="Discord Icon">
     <strong>Join My Discord Community!</strong>
   </a>
