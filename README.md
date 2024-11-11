@@ -29,14 +29,14 @@
 <h2>Contact</h2>
 
 <p align="center">
-  <a href="https://discord.gg/DRPxmjrHPr" target="_blank">
+  <a href="https://discord.gg/XYtpjNZ4KJ" target="_blank">
     <img src="https://img.icons8.com/nolan/64/discord-logo.png" width="40" alt="Discord Icon">
     <strong>Join My Discord Community!</strong>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/discord/1305671044014669916?label=Online%20Members&style=flat-square" alt="Discord Online Members">
+  <img src="https://img.shields.io/discord/833117137269817405?label=Online%20Members&style=flat-square" alt="Discord Online Members">
 </p>
 
 <p align="center">
