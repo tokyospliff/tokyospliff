@@ -1,5 +1,3 @@
-<!-- README.md -->
-
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 
 <p align="center">
@@ -21,7 +19,7 @@
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png" width="20"> <strong>Lua</strong></li>
-  <li><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="20"> <strong></strong>++</li>
+  <li><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="20"> <strong>C++</strong></li>
 </ul>
 
 <p align="center">
@@ -31,9 +29,14 @@
 <h2>Contact</h2>
 
 <p align="center">
-  <a href="https://tokyospliff.dev" target="_blank">
-    <img src="https://img.icons8.com/nolan/64/internet.png" width="40" alt="Website Icon"> <strong>Visit My Website</strong>
+  <a href="https://discord.gg/DRPxmjrHPr" target="_blank">
+    <img src="https://img.icons8.com/nolan/64/discord-logo.png" width="40" alt="Discord Icon">
+    <strong>Join My Discord Community!</strong>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/discord/DRPxmjrHPr?label=Online%20Members&style=flat-square" alt="Discord Online Members">
 </p>
 
 <p align="center">
