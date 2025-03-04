@@ -12,11 +12,13 @@
 
 ### **About Me**
 
-Hello! I'm a passionate programmer from Germany with a love for coding and creating innovative projects. I specialize in **game development**, **scripting**, and exploring new technologies. Whether it's building immersive games or solving complex problems, I thrive on turning ideas into reality.
+Hello! I'm a programmer from Germany.
 
-Currently, I'm diving deep into **FiveM scripting**, **Unity game development**, and expanding my skills in **cybersecurity** and **cloud computing**. I believe in continuous learning and see every challenge as an opportunity to grow.
+I have a passion for coding and enjoy exploring new ideas and developing interesting projects as a hobby.
 
-Here on GitHub, you'll find a collection of my projects that showcase my journey through coding, game development, and beyond. Feel free to explore my repositories and see how I bring ideas to life!
+GitHub is my go-to platform for sharing my work and collaborating with developers.
+
+Here on GitHub, you'll find a collection of my projects that showcase my journey through coding, game development, and beyond. Feel free to explore my repositories!
 
 ---
 
@@ -57,5 +59,5 @@ Here on GitHub, you'll find a collection of my projects that showcase my journey
 ---
 
 <p align="center">
-  Thanks for visiting my profile! Let's build something amazing together. 🚀
+  Thanks for visiting my profile! 🚀
 </p>
