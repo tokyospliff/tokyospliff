@@ -1,11 +1,11 @@
-<h1 align="center">Hello, I'm Classic! 👋</h1>
+<h1 align="center">Hello,</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/169314632?v=4" alt="Profile Picture" width="150" style="border-radius: 50%;">
 </p>
 
 <p align="center">
-  <strong>test</strong>
+  <strong>I'm Classic! 👋</strong>
 </p>
 
 ---
@@ -18,7 +18,7 @@ I have a passion for coding and enjoy exploring new ideas and developing interes
 
 GitHub is my go-to platform for sharing my work and collaborating with developers.
 
-Here on GitHub, you'll find a collection of my projects that showcase my journey through coding, game development, and beyond. Feel free to explore my repositories!
+You'll find a collection of my projects that showcase my journey through coding, game development, and beyond. Feel free to explore my repositories!
 
 ---
 
