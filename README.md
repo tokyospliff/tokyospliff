@@ -50,9 +50,9 @@ You'll find a collection of my projects that showcase my journey through coding,
 ### **Let's Connect**
 
 <p align="center">
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.icons8.com/nolan/64/glow-star.png" width="40" alt="Star Icon">
-    <strong style="color: #ffcc00; text-shadow: 0 0 5px #ffcc00;">✨ Explore My World ✨</strong>
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-Classic%231337-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+</p>
   </a>
 </p>
 
