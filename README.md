@@ -23,7 +23,7 @@
 </ul>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyospliff&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyospliff&layout=compact&cache_seconds=86400&random=12345" alt="Top Languages">
 </p>
 
 <h2>Contact</h2>
