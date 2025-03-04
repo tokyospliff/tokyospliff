@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>@tokyospliff</strong>
+  <strong></strong>
 </p>
 
 ---
