@@ -4,21 +4,15 @@
   <img src="https://avatars.githubusercontent.com/u/169314632?v=4" alt="Profile Picture" width="150" style="border-radius: 50%;">
 </p>
 
-<p align="center">
-  <strong></strong>
-</p>
-
 ---
 
-### **📊 Profile Views**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tokyospliff&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views Counter" />
-</p>
+### **🚀 Profile Traffic**
 
 <div align="center">
 
-![Visitor Counter](https://profile-counter.glitch.me/tokyospliff/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=tokyospliff&color=8B5CF6&label=PROFILE+VIEWS&style=for-the-badge)
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftokyospliff&count_bg=%238B5CF6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" />
 
 </div>
 
@@ -71,8 +65,8 @@ You'll find a collection of my projects that showcase my journey through coding,
 
 <div align="center">
 
-### **🎉 Thanks for visiting my profile! You're visitor number** 
-  
-![Counter](https://komarev.com/ghpvc/?username=tokyospliff&color=8B5CF6&style=for-the-badge&label=TOTAL+VISITORS)
+### **⭐ Thanks for visiting! You're amazing! ⭐**
+
+<img src="https://komarev.com/ghpvc/?username=tokyospliff&color=8B5CF6&style=for-the-badge&label=VISITORS+COUNT" />
 
 </div>
