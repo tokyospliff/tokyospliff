@@ -4,20 +4,6 @@
   <img src="https://avatars.githubusercontent.com/u/169314632?v=4" alt="Profile Picture" width="150" style="border-radius: 50%;">
 </p>
 
----
-
-### **🚀 Profile Traffic**
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=tokyospliff&color=8B5CF6&label=PROFILE+VIEWS&style=for-the-badge)
-
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftokyospliff&count_bg=%238B5CF6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" />
-
-</div>
-
----
-
 ### **About Me**
 
 Hello! I'm a programmer from Germany.
