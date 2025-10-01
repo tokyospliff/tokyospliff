@@ -10,6 +10,20 @@
 
 ---
 
+### **📊 Profile Views**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tokyospliff&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views Counter" />
+</p>
+
+<div align="center">
+
+![Visitor Counter](https://profile-counter.glitch.me/tokyospliff/count.svg)
+
+</div>
+
+---
+
 ### **About Me**
 
 Hello! I'm a programmer from Germany.
@@ -50,14 +64,15 @@ You'll find a collection of my projects that showcase my journey through coding,
 ### **Let's Connect**
 
 <p align="center">
-<p align="center">
   <img src="https://img.shields.io/badge/Discord-Classic%231337-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
-</p>
-  </a>
 </p>
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile! 🚀
-</p>
+<div align="center">
+
+### **🎉 Thanks for visiting my profile! You're visitor number** 
+  
+![Counter](https://komarev.com/ghpvc/?username=tokyospliff&color=8B5CF6&style=for-the-badge&label=TOTAL+VISITORS)
+
+</div>
