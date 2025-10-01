@@ -51,7 +51,7 @@ You'll find a collection of my projects that showcase my journey through coding,
 
 <div align="center">
 
-### **⭐ Thanks for visiting! You're amazing! ⭐**
+### **⭐ Thanks for visiting! ⭐**
 
 <img src="https://komarev.com/ghpvc/?username=tokyospliff&color=8B5CF6&style=for-the-badge&label=VISITORS+COUNT" />
 
