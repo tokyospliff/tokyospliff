@@ -31,13 +31,18 @@ You'll find a collection of my projects that showcase my journey through coding,
 
 ---
 
-### **GitHub Stats**
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tokyospliff&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tokyospliff&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyospliff&layout=compact&theme=radical" alt="Top Languages">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyospliff&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
