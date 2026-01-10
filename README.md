@@ -1,5 +1,3 @@
-<h1 align="center">Hello, I'm Classic! 👋</h1>
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/169314632?v=4" alt="Profile Picture" width="150" style="border-radius: 50%;" />
 </p>
