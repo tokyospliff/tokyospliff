@@ -30,11 +30,11 @@ You'll find a collection of my projects that showcase my journey through coding,
 ---
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tokyospliff&show_icons=true&theme=radical&hide_border=true" />
-    <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tokyospliff&theme=radical&hide_border=true" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyospliff&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+    <!-- Streak Stats - de obicei funcționează mai bine -->
+    <img src="https://streak-stats.demolab.com?user=tokyospliff&theme=radical&hide_border=true" />
+    <br /><br />
+    <!-- Stats alternative -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tokyospliff&theme=radical" />
   </p>
 
 ---
