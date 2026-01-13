@@ -25,8 +25,6 @@ You'll find a collection of my projects that showcase my journey through coding,
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
@@ -34,7 +32,7 @@ You'll find a collection of my projects that showcase my journey through coding,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=REPLACE_ME&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tokyospliff&show_icons=true&hide_border=true" />
   <br />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyospliff&layout=compact&theme=radical&hide_border=true&langs_count=8"
