@@ -29,16 +29,14 @@ You'll find a collection of my projects that showcase my journey through coding,
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tokyospliff&show_icons=true&hide_border=true" />
-  <br />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyospliff&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tokyospliff&show_icons=true&hide_border=true&theme=radical" />
+    <br />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyospliff&layout=compact&theme=radical&hide_border=true&langs_count=8"
+      alt="Top Languages"
+    />
+  </p>
 
 ---
 
