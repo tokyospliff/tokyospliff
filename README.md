@@ -4,7 +4,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hello! I'm a programmer from Germany.
 
@@ -16,7 +16,7 @@ You'll find a collection of my projects that showcase my journey through coding,
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
   <p align="center">
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
@@ -32,17 +32,21 @@ You'll find a collection of my projects that showcase my journey through coding,
 
 ---
 
-  <p align="center">
-    <!-- Streak Stats - de obicei funcționează mai bine -->
-    <img src="https://streak-stats.demolab.com?user=tokyospliff&theme=radical&hide_border=true" />
-    <br /><br />
-    <!-- Stats alternative -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tokyospliff&theme=radical" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tokyospliff&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tokyospliff&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyospliff&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-Classic%231337-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
@@ -52,7 +56,7 @@ You'll find a collection of my projects that showcase my journey through coding,
 
 <div align="center">
 
-## ⭐ Thanks for visiting! ⭐
+## Thanks for visiting!
 
 <img src="https://komarev.com/ghpvc/?username=tokyospliff&style=for-the-badge&color=8B5CF6&label=VISITORS+COUNT" />
 
